@@ -10,6 +10,9 @@ About: Code is Life!<br/>
 Programming Language: Java, JS, C, C++<br/>
 Email: palaash.atri@gmail.com<br/>
 
-
-
+Name: [Naveen Shivnani](https://github.com/Tanmay17)<br/>
+Place: India<br/>
+About: Do your best and rest is history<br/>
+Programming Language: Java, JS (React), C, C++<br/>
+Email: naveenshivnani586@gmail.com<br/>
 
