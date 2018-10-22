@@ -16,3 +16,8 @@ About: Do your best and rest is history<br/>
 Programming Language: Java, JS (React), C, C++<br/>
 Email: naveenshivnani586@gmail.com<br/>
 
+Name: [Zahid Jabbar](https://github.com/mrzahidjabbar)<br/>
+Place: Pakistan<br/>
+About: Code is Poetry.<br/>
+Programming Language: JavaScript<br/>
+Email: mrzahidjabbar@gmail.com<br/>
