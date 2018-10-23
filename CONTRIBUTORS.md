@@ -16,3 +16,7 @@ About: Do your best and rest is history<br/>
 Programming Language: Java, JS (React), C, C++<br/>
 Email: naveenshivnani586@gmail.com<br/>
 
+Place: Delhi
+About: code-test-repeat
+Programming Language: C++
+Email: smartest.sharmarohit@gmail.com
