@@ -27,3 +27,9 @@ Place: Delhi<br/>
 About: code-test-repeat<br/>
 Programming Language: C++<br/>
 Email: smartest.sharmarohit@gmail.com<br/>
+
+Name : Manik Rastogi (https://github.com/manik3112)<br/>
+Place: Dehradun<br/>
+About: <?PHP echo"Full Stack Web Developer"; ?><br/>
+Programming Language: C++<br/>
+Email: manik3112@gmail.com<br/>
