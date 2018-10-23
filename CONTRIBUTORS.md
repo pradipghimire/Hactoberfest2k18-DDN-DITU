@@ -21,3 +21,9 @@ Place: Pakistan<br/>
 About: Code is Poetry.<br/>
 Programming Language: JavaScript<br/>
 Email: mrzahidjabbar@gmail.com<br/>
+
+Name : Rohit Sharma(https://github.com/rohit-94)<br/>
+Place: Delhi<br/>
+About: code-test-repeat<br/>
+Programming Language: C++<br/>
+Email: smartest.sharmarohit@gmail.com<br/>
