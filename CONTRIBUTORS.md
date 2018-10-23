@@ -16,3 +16,8 @@ About: Do your best and rest is history<br/>
 Programming Language: Java, JS (React), C, C++<br/>
 Email: naveenshivnani586@gmail.com<br/>
 
+Name : Rohit Sharma(https://github.com/rohit-94)<br/>
+Place: Delhi<br/>
+About: code-test-repeat<br/>
+Programming Language: C++<br/>
+Email: smartest.sharmarohit@gmail.com<br/>
