@@ -1,0 +1,48 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package javaapplication3;
+import java.util.*;
+import java.util.Collections;
+/**
+ *
+ * @author ranjeet
+ */
+public class JavaApplication3 {
+
+    /**
+     * @param args the command line arguments
+     */
+   
+
+    public static void main(String[] args) {
+        System.out.println("Enter your Number");
+        Scanner br=new Scanner(System.in);
+        int num = br.nextInt();
+        boolean flag = false;
+        for(int i = 2; i <= num/2; ++i)
+        {
+            // condition for nonprime number
+            if(num % i == 0)
+            {
+                flag = true;
+                break;
+            }
+        }
+
+        if (!flag)
+            System.out.println(num + " is a prime number.");
+        else
+            System.out.println(num + " is not a prime number.");
+    }
+}
+                
+          
+      
+         
+      
+      
+      
+     
