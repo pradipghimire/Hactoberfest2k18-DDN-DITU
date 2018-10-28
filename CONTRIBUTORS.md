@@ -27,3 +27,9 @@ Place: Delhi<br/>
 About: code-test-repeat<br/>
 Programming Language: C++<br/>
 Email: smartest.sharmarohit@gmail.com<br/>
+
+Name: [SpiderParth](https://github.com/SpiderParth)<br/>
+Place: Gujarat<br/>
+About: Coding is love<br/>
+Programming Language: C and C++<br/>
+Email: parthp3108@gmail.com<br/>
