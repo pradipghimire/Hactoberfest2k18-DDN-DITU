@@ -39,3 +39,9 @@ Place: Gujarat<br/>
 About: Coding is love<br/>
 Programming Language: C and C++<br/>
 Email: parthp3108@gmail.com<br/>
+
+Name : [Deepak Mehra](https://github.com/mehra-deepak)<br/>
+Place: India<br/>
+About: Just another sinless coder.<br/>
+Programming Language: C++, Java, C, Python.<br/>
+Email: mehradeepak0608@gmail.com<br/>
